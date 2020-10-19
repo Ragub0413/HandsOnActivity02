@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\bin\Debug\3HandsOnActivity2.exe
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\bin\Debug\3HandsOnActivity2.pdb
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\_3HandsOnActivity2.frmAddProduct.resources
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\_3HandsOnActivity2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\3HandsOnActivity2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\3HandsOnActivity2.exe
+c:\users\user\documents\visual studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\3HandsOnActivity2.pdb

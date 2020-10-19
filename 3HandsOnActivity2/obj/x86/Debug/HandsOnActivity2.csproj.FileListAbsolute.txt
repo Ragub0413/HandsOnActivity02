@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\3HandsOnActivity2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\3HandsOnActivity2\3HandsOnActivity2\obj\x86\Debug\3HandsOnActivity2.pdb
